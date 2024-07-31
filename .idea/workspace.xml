@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784ae458-b48f-4b1a-b54f-61d33b811f03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-service/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-service/application-ga.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-service/application-pef.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-service/application-prod.yml" afterDir="false" />
-    </list>
+    <list default="true" id="784ae458-b48f-4b1a-b54f-61d33b811f03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +39,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\TSE\code\spring-config-sever" />
+      <recent name="E:\TSE\code\spring-config-sever\greeting-service" />
     </key>
   </component>
   <component name="SharedIndexes">
