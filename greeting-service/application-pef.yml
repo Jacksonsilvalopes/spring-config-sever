@@ -8,5 +8,5 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "olá"
-  default-value: "Mundo Pef"
+  greeting: "Hello"
+  default-value: "Ambiente de configuração PEF"

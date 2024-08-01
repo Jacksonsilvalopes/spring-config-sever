@@ -9,4 +9,4 @@ management:
           - '*'
 greeting-service:
   greeting: "olá"
-  default-value: "Mundo Ga"
+  default-value: "Ambiente de configuração GA"

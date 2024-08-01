@@ -8,5 +8,5 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "Não esta indo"
-  default-value: "Mundo Dev"
+  greeting: "Hello"
+  default-value: "Ambiente de configuração Default"
